@@ -33,7 +33,7 @@ Partial Class Main
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(700, 408)
         Me.Label1.TabIndex = 0
-        Me.Label1.Text = "윈폼에서의 흐린 창"
+        Me.Label1.Text = "I'm a silly man and I love vb.net"
         Me.Label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
         'Main
