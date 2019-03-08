@@ -5,6 +5,9 @@ A simple vb.net winform app with blurred background effect
 
 vb.net과 윈폼으로 만든 간단한 배경 흐림 효과를 가진 앱
 
+
+Reference Project: https://github.com/riverar/sample-win10-aeroglass
+
 ## Known Issues
 - Always have to place ``BlurForm`` bottom of your ``MainForm`` in order to see blurry background.
 - ``BlurForm`` may not perfectly fit with ``MainForm`` unless you set ``FormBoaderStyle`` to ``None``.
